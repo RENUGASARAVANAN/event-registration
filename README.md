@@ -146,8 +146,8 @@ top: 117px;
 background: url(Logo.png);
 ```
 ## OUTPUT:
-![Output](./out1.png)
-![Output](./out2.png)
+![Output](./out1(1).png)
+![Output](./out2(1).png)
 ![Output](./out3.png)
 
 ## RESULT:
